@@ -1,0 +1,1 @@
+fing -n 10.112.1.145/22 -r 1 --session fing-output/discovery -o table,text,fing-output/discovery-output
